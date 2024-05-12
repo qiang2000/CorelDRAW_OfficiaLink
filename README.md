@@ -5,6 +5,20 @@ CorelDRAW官方版本下载，非思马打包版。
 
 ## Mac版本在后面
 
+##### 最新的版本
+
+CorelDRAW Graphics Suite 2024 v25.0.0.230 x64 CorelDRAW2024官方多语言版(2024年3月发布)
+
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF01.iso
+
+CorelDRAW Graphics Suite 2023 v24.5.0.731 x64 CorelDRAW2023官方多语言版(2023年9月更新)
+
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2022/GewZP3K8NY/CorelDRAWGraphicsSuite2023Installer_MF07.iso
+
+CorelDRAW Graphics Suite 2022 v24.1.0.360 x64 CorelDRAW2022官方多语言版(2022年6月发布)
+
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2022/GewZP3K8NY/CorelDRAWGraphicsSuite2022Installer_MF01.iso
+
 ##### CorelDRAW Win10 兼容性问题 --> CDR菜单白屏
 Win10安装后，顶部菜单栏白屏，CorelDRAW X7以上版本不会出现这个问题
 

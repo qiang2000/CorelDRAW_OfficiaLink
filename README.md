@@ -46,7 +46,13 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 数字签名2008年12月18日 6:02:47
 [官方SP2升级包](http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP2.exe)
 
-
+http://www.corel.com/akdlm/6763/downloads/trials/GraphicsSuiteX4/TND/CorelDRAWGraphicsSuiteX4_CT_TND.exe   CorelDRAW X4繁体中文试用版
+http://www.corel.com/akdlm/6763/downloads/trials/GraphicsSuiteX4/CorelDRAWGraphicsSuiteX4Installer_EN.exe        CorelDRAW X4英文试用版
+http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4HF2.exe          CorelDRAW X4修复补丁2（仅用于SP2后的修复）
+http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP2.exe          CorelDRAW X4官方SP2补丁
+http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4HotFix1.exe    CorelDRAW X4修复补丁1
+http://www.corel.com/akdlm/6763/downloads/CorelDRAW/CorelGRAPHICSSUITE/X4/CGSX4SP1.exe          CorelDRAW X4官方SP1补丁
+http://download.microsoft.com/download/d/3/2/d327d183-fea1-4303-b2e1-01d2fa92b371/msxmlchs.msi    CorelDRAW X4解决安装CorelDRAW时“验证MSXML4已经安装”的错误
 
 ```java
 ////
@@ -70,6 +76,12 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 
 ![officeX6.jpg](./officeX6.jpg)
 
+http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6.1/CorelDRAWGraphicsSuiteX6Installer_CS64Bit.exe     CorelDRAW X6中文试用版 64位
+http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6.1/CorelDRAWGraphicsSuiteX6Installer_CS32Bit.exe     CorelDRAW X6中文试用版 32位
+http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6/CorelDRAWGraphicsSuiteX6Installer_EN64Bit.exe       CorelDRAW X6英文试用版 64位
+http://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/X6/CorelDRAWGraphicsSuiteX6Installer_EN32Bit.exe       CorelDRAW X6英文试用版 32位
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/X6/CDGSX6Update4_HF1.exe                  CorelDRAW X6 Hotfix
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/X6/CDGSX6Update4.exe                          CorelDRAW X6 Update
 
 ##### CorelDRAW X7 简体中文版
 数字签名2014年6月8日 0:21:58
@@ -79,10 +91,24 @@ CorelDRAWGraphicsSuiteX4Installer_EN.exe  2008年1月15日 0:18:07
 
 ![officeX7.jpg](./officeX7.jpg)
 
+CorelDRAW Graphics Suite X7 build 17.0.0.491         MD5: 56DE2F0381EDD03BDD51C7F0ED528CD6
+http://www.corel.com/akdlm/6763/downloads/ELD/CDGS/X7/CorelDRAWGraphicsSuiteX7Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS.iso
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/X7/CDGSX7U6HF1.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/X7/CDGSX7Update6.exe
 
 ```java
 ////
 ```
+
+
+##### CorelDRAW X8 官方版
+
+官方下载地址：
+CorelDRAW Graphics Suite X8 build 18.1.0.661       MD5: 140B797553A124360EDA71D66AEC0A92
+http://www.corel.com/akdlm/6763/downloads/ELD/CDGS/X8/CorelDRAWGraphicsSuiteX8Installer-EN_DE_FR_IT_NL_ES_BR_CZ_PL_RU_CT_CS_JP_TR_02.iso
+http://www.corel.com/akdlm/6763/downloads/IPM/cdgs-hf1.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/X8/CDGSX8U1.exe
+
 
 ##### CorelDRAW 2017 官方版
 
@@ -125,11 +151,23 @@ POST 接口： http://www.installportal.com/v1/token
 ![office2020.jpg](./office2020.jpg)
 
 
+CorelDRAW Graphics Suite 2020 build 22.0.0.412    MD5: 946A87DE90BEFA102D3E28C19F95119D
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2020/CorelDRAWGraphicsSuite2020Installer_MF03.iso
+修补程序 1
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020HF132.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020HF164.exe
+更新 1
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020U132.exe
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2020/LGJR/CDGS2020U164.exe
+
+
 ##### CorelDRAW 2021官方版
 
 
 [CDGS2021.exe])(https://www.corel.com/akdlm/6763/downloads/free/trials/GraphicsSuite/2021/5gu8DC39/CDGS2021.exe)
 
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2021/jpz4SmzFyE/CorelDRAWGraphicsSuite2021Installer_MF01.iso
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2021/jpz4SmzFyE/CorelDRAWGraphicsSuite2021Installer_MF02.iso
 
 ```java
 ////

@@ -6,6 +6,13 @@ CorelDRAW官方版本下载，非思马打包版。
 ## Mac版本在后面
 
 ##### 最新的版本
+CorelDRAW Graphics Suite 2024 v25.2.0.48 x64 Update (2024版24年8月更新补丁)
+
+https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2024/FgU36S2n/CDGS2024-U2.exe
+
+CorelDRAW Graphics Suite 2024 v25.1.0.269 x64 官方多语言版 (24年6月完整版)
+
+https://www.corel.com/akdlm/6763/downloads/ELD/CDGS/2024/JwdAS58QP32/CorelDRAWGraphicsSuite2024Installer_MF02.iso
 
 CorelDRAW Graphics Suite 2024 v25.0.0.230 x64 CorelDRAW2024官方多语言版(2024年3月发布)
 
